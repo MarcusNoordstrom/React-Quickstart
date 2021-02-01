@@ -13,7 +13,7 @@ Instructions
 
 * Step4: You can now start npm from the directory of this repo on you're local machine and you should see the website up and running at localhost/
 
-**NOTE** if you have errors now it is because you're IDE did not automatically install 'Npm' or 'Node.js. Follow these instructions if this happened
+**NOTE** if you have errors now it is because you're IDE did not automatically install 'Npm' or 'Node.js' was not installed properly Follow these instructions if this happened
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 * Step 1: Open a command prompt or terminal
 * Step 2: run the following command 'node –v' it should return: vxx.x.x where the x is the version number you have installed.
